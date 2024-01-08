@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Design(UI/UX, Logo, Label branding) & Front-End Development**
 
-- 📫 How to reach me **suresh12345x@gmail & sureshchoudhary.work@gmail.com**
+- 📫 How to reach me **suresh12345x@gmail.com & sureshchoudhary.work@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vCi77H3Ll6FwgX82T0mmTwBDtzEfSciN/view?usp=drive_link](https://drive.google.com/file/d/1vCi77H3Ll6FwgX82T0mmTwBDtzEfSciN/view?usp=drive_link)
 
