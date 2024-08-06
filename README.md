@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suresh12345x@gmail.com & sureshchoudhary.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vCi77H3Ll6FwgX82T0mmTwBDtzEfSciN/view?usp=drive_link](https://drive.google.com/file/d/1vCi77H3Ll6FwgX82T0mmTwBDtzEfSciN/view?usp=drive_link)
+- 📄 Know about my experiences [Resume📃]([https://drive.google.com/file/d/1vCi77H3Ll6FwgX82T0mmTwBDtzEfSciN/view?usp=drive_link](https://drive.google.com/file/d/1UGKITQHSnvEXHBjjndQYAliU4sEitSHQ/view))
 - <table>
   <tr>
     <td><img height="200px" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sschoudhary30&layout=compact&theme=dark" alt="sureshchoudhary" /></td>
