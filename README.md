@@ -20,9 +20,7 @@
     <td><img height="200px" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sschoudhary&theme=dark&width=10000" alt="sureshchoudhary" /></td>
   </tr>
 </table>
-<P>**Coding Profile**</P>
-
-
+<h3 align="left">Coding Profile:</h3>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/suresh_aumix?ext=heatmap)
 
 
