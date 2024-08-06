@@ -3,6 +3,8 @@
 <p align="center">
   <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Computer+Science+Student;UI/UX+Developer;Logo+Designer+and+Brand+Identity+Designer"></a>
 </p>
+# ![](<https://github.com/Akash-Salvi/Akash-Salvi/blob/master/Hello(1).gif>)[ARYAN JANGID](https://github.com/aryanjangid) <img src="./img/wave.gif" width="30px" height="30px" />
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sschoudhary30&label=Profile%20views&color=0e75b6&style=flat" alt="sschoudhary30" /> </p>
