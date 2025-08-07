@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Suresh Choudhary! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <h3 align="center">A passionate UI/UX Designer & FrontEnd Developer from India</h3>
 <p align="center">
-  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Computer+Science+Student;UI/UX+Developer;Gen+AI;MCP SERVER; AI+Agent;Automation"></a>
+  <a href="https://github.com/aryanjangid/readme-typing-svg"><img width="1200" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;Computer+Science+Student;UI/UX+Developer;Gen+AI;MCP+SERVER;AI+Agent;Automation"></a>
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
